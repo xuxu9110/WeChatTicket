@@ -1,0 +1,7 @@
+wechat.wrapper.py:226~232
+判断是否是xml
+若是，将所有元素的tag和text对应，放在msg字典中
+然后返回msg
+
+
+https
